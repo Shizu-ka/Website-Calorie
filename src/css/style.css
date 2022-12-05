@@ -3,6 +3,8 @@
 }
 body{
     background: flfbff;
+    background-color: #010101;
+    color: white;
 }
 .section-padding{
     padding: 100px 0;
@@ -10,6 +12,9 @@ body{
 .carousel-item{
     height: 100vh;
     min-height: 300px;
+}
+.input-group-append{
+    cursor: pointer;
 }
 .carousel-caption{
     bottom: 220px;
@@ -27,6 +32,7 @@ body{
    font-size: 18px;
    line-height: 1.9;
 }
+
 .carousel-inner::before{
     content: '';
     position: absolute;

@@ -7,10 +7,11 @@ body{
     color: white;
 }
 .bg-primary {
-    background-color: #B8A009!important;
+    background-color: #202429!important;
+
 }
 .text-primary {
-    color: #B8A009!important;
+    color: #edb50a!important;
 }
 .card {
     margin: 0 auto; /* Added */
@@ -53,6 +54,9 @@ body{
     left: 0;
     background: rgba(0,0,0,0.7);
     z-index: 1;
+}
+.nav-link {
+    color: #edb50a!important;
 }
 .navbar {
     background-color: #131716;

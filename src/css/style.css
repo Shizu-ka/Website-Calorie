@@ -6,6 +6,12 @@ body{
     background-color: #010101;
     color: white;
 }
+.bg-primary {
+    background-color: #B8A009!important;
+}
+.text-primary {
+    color: #B8A009!important;
+}
 .card {
     margin: 0 auto; /* Added */
     float: none; /* Added */

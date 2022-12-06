@@ -6,6 +6,11 @@ body{
     background-color: #010101;
     color: white;
 }
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
 .section-padding{
     padding: 100px 0;
 }
@@ -43,6 +48,9 @@ body{
     background: rgba(0,0,0,0.7);
     z-index: 1;
 }
+.navbar {
+    background-color: #131716;
+}
 .navbar-nav a{
     font-size: 15px;
     text-transform: uppercase;
@@ -70,6 +78,7 @@ body{
 .services .card-body i{
     font-size: 50px;
 }
+
 
 /* responsive css */
 
